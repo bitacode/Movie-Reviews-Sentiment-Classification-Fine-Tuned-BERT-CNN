@@ -62,7 +62,7 @@ This repository provides annotated datasets, experiment scripts, and pre-trained
    git clone https://github.com/bitacode/Scenario-Based-Movie-Recommendation-System.git
    cd Scenario-Based-Movie-Recommendation-System
    ```
-2. **Run Conda Environtment**
+2. **Run Conda Environment**
 
    ```
    conda activate your_env_name
