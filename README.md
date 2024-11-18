@@ -29,7 +29,7 @@ This repository provides annotated datasets, experiment scripts, and pre-trained
    - Annotated Train/Test Dataset: `resetted_index_cleaned_polarity_roberta.csv`
      - Annotated using RoBERTa.
      - Pre-annotated dataset sourced from [Kaggle](https://www.kaggle.com/code/stefanoleone992/rotten-tomatoes-eda).
-  - Test Dataset: `letterboxd_movie_reviews_scraped.csv`
+   - Test Dataset: `letterboxd_movie_reviews_scraped.csv`
     - Scraped reviews from LetterBoxd.
 
 
