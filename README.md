@@ -5,7 +5,7 @@
 1. Introduction
 2. Fine-Tuned BERT + CNN Model Design
 3. Cosine Similarity Semantic Search Experiment
-4. Support Vector Decomposition (SVD) Model Design for Collaborative Filtering
+4. Singular Value Decomposition (SVD) Model Design for Collaborative Filtering
 5. MobileNetV2 Model Design for Poster Classification
 6. How to Use This Repository
 
@@ -40,8 +40,8 @@ This repository provides annotated datasets, experiment scripts, and pre-trained
      - Pre-processed using the **BERT base-uncased model.**
 
 
-## Support Vector Decomposition Model Design for Collaborative Filtering
-1. **Notebook:** `SVD Collaborative Filtering.ipynb`. This notebook showcases how Support Vector Decomposition (SVD) was used to train a collaborative filtering recommendation model.
+## Singular Value Decomposition Model Design for Collaborative Filtering
+1. **Notebook:** `SVD Collaborative Filtering.ipynb`. This notebook showcases how Singular Value Decomposition (SVD) was used to train a collaborative filtering recommendation model.
 2. **Dataset:**
    - **MovieLens-1M:** [Download Here](https://grouplens.org/datasets/movielens/1m/)
      - A large-scale dataset containing 1 million movie ratings.
