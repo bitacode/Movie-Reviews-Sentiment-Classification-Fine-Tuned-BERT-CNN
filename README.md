@@ -16,7 +16,7 @@ This repository supports our research on developing a Scenario-Based Movie Recom
 - Cosine Similarity for semantic search experiments.
 
 For comparative purposes, the repository also includes:
-- Collaborative filtering using Support Vector Decomposition (SVD).
+- Collaborative filtering using Singular Value Decomposition (SVD).
 
 In future work, we aim to expand into multi-modal approaches, leveraging MobileNetV2 for movie poster classification.
 This repository provides annotated datasets, experiment scripts, and pre-trained models to facilitate replication and further exploration
